@@ -1,4 +1,4 @@
-package org.example;
+package Tests;
 
 import models.Students;
 import services.StudentsService;
